@@ -1,1 +1,0 @@
-An exercice from Code Academy Program : Build Websites From Scratch, regarding Git tools.
